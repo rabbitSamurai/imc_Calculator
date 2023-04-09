@@ -1,0 +1,35 @@
+div {
+    margin: auto;
+    width: 10%;
+    border: 2px solid rgb(0, 0, 0);
+    padding: 70px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+label{
+   margin-left: 40%;
+}
+
+#calc{
+    background-color: rgb(27, 214, 27);
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    position: relative;
+    left: 5px;
+}
+
+#limpar{
+    background-color: rgb(166, 166, 166);
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    position: relative;
+    left: 90px;
+    top: -30px;
+}
